@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+env/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Data (optional - we will NOT commit large datasets)
+data/
+
+# Model files (optional - we will regenerate)
+*.pkl
+
+# Streamlit cache
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
